@@ -128,16 +128,16 @@ correlated with response variable, this is because there will always be one scre
 ![image](https://user-images.githubusercontent.com/47801267/71058107-be47d600-2184-11ea-989b-1580b99e515d.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058113-c1db5d00-2184-11ea-9ba0-56bb7696bc89.png)
 - `From both the plots we can conclude that both Actual & Predicted values follows same class distribution`
-![image](https://user-images.githubusercontent.com/47801267/71058168-eb948400-2184-11ea-8442-2b758985ca22.png)
-
 ---
 **Feature Importance**
+![image](https://user-images.githubusercontent.com/47801267/71058168-eb948400-2184-11ea-8442-2b758985ca22.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058172-f0f1ce80-2184-11ea-8b5c-6267b563840c.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058177-f9e2a000-2184-11ea-81b8-19a64ce160e5.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058182-fcdd9080-2184-11ea-916d-51c4ac20754b.png)
-![image](https://user-images.githubusercontent.com/47801267/71058275-4201c280-2185-11ea-89c0-f141d27bf92e.png)
 ---
 ## Conclusion & Final Results
+![image](https://user-images.githubusercontent.com/47801267/71058275-4201c280-2185-11ea-89c0-f141d27bf92e.png)
+
 ![tenor](https://user-images.githubusercontent.com/47801267/71058235-17176e80-2185-11ea-81ef-e1c381c7a760.gif)
 - **Positively Affecting features to enrollment:** Other_sceens, VerifyPhone, CMCount, VerifyMobile, VerifyDateOfBirth, Rewards, EditProfile, etc, without any doubt all above features are situated to moving towards the enrollment screens.
 - **Negatively Affecting features to enrollment:** LoanCount, VerifyCountry, Alerts, age, numscreens, Login, ResendToken, etc, if we see all these features are irritating & no user want to do this.
