@@ -96,10 +96,10 @@ we don''t want correlated screens coz it's not good idea for the model`**
 ### Data Preprocessing & Feature Scaling
 ![image](https://user-images.githubusercontent.com/47801267/71057660-76747f00-2183-11ea-90cb-c2d01e7e7c0f.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057671-84c29b00-2183-11ea-8d24-04ba7b77fc77.png)
-![image](https://user-images.githubusercontent.com/47801267/71057732-b9365700-2183-11ea-9e31-2439f58be4c4.png)
 ---
 ### Logistic Regression Model
 #### Model Training
+![image](https://user-images.githubusercontent.com/47801267/71057732-b9365700-2183-11ea-9e31-2439f58be4c4.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057753-c81d0980-2183-11ea-8e99-9c8355791572.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057776-df5bf700-2183-11ea-8cd5-7efb4ad8f3b7.png)
 ***we will use 'L1' penalty as we might have correlated features like screens & 'L1' penalises any such fields that are strongly
