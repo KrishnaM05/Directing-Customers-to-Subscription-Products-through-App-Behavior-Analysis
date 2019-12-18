@@ -56,6 +56,7 @@ Observations:
 - Not many user used premium feature in 1st 24 hours
 
 ![image](https://user-images.githubusercontent.com/47801267/71057087-812e1480-2181-11ea-9c4b-29a0bb76785b.png)
+![image](https://user-images.githubusercontent.com/47801267/71058534-2a770980-2186-11ea-8176-13682cc17e3e.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057146-b9355780-2181-11ea-8c56-ccd7690401ea.png)
 Observarions:
 - dayofweek is least positively correlated & says that if you join the app in day 0(sunday) then their is most likely to get enrolled to the premium features
