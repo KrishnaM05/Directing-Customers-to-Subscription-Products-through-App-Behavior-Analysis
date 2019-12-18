@@ -92,9 +92,9 @@ All the independent features are having very less correlation among themselves, 
 - **`Funnels : Funnels are group of screens that belong to same set There are many screens that are correlated with eachother, and
 we don''t want correlated screens coz it's not good idea for the model`**
 ![image](https://user-images.githubusercontent.com/47801267/71057618-4dec8500-2183-11ea-84f6-02ae59b92788.png)
-![image](https://user-images.githubusercontent.com/47801267/71057660-76747f00-2183-11ea-90cb-c2d01e7e7c0f.png)
 ---
 ### Data Preprocessing & Feature Scaling
+![image](https://user-images.githubusercontent.com/47801267/71057660-76747f00-2183-11ea-90cb-c2d01e7e7c0f.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057671-84c29b00-2183-11ea-8d24-04ba7b77fc77.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057732-b9365700-2183-11ea-9e31-2439f58be4c4.png)
 ---
