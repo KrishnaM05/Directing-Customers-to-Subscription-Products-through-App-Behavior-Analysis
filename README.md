@@ -64,29 +64,38 @@ All the independent features are having very less correlation among themselves, 
 ![image](https://user-images.githubusercontent.com/47801267/71057245-1af5c180-2182-11ea-9fe1-f0597881624d.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057284-35c83600-2182-11ea-8982-5449934c8ecf.png)
 Here we observe that most of users enrolled in 1st 2000 Hour but their might be case that most enrollment is in 1st 100 or 500 hours, lets zoom the plot
+
 ![image](https://user-images.githubusercontent.com/47801267/71057298-3f519e00-2182-11ea-9a74-f59901d4c9a7.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057351-69a35b80-2182-11ea-93ad-72c35dc48a9e.png)
 Here we observe that most of users enrolled in 1st 100 Hour but let's zoom the plot again
+
 ![image](https://user-images.githubusercontent.com/47801267/71057367-72942d00-2182-11ea-865d-0e66006c2ba0.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057392-88a1ed80-2182-11ea-9605-4addbe05096c.png)
 Here we observe that most of users enrolled in 1st 10 Hour but let's zoom the plot a bit more
+
 ![image](https://user-images.githubusercontent.com/47801267/71057399-8cce0b00-2182-11ea-91fc-224d12f69271.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057419-9eafae00-2182-11ea-8b18-508a6ae10636.png)
 Here we observe that most of users enrolled in 1st 1 Hour but let's zoom the plot one more time.
+
 ![image](https://user-images.githubusercontent.com/47801267/71057426-a7a07f80-2182-11ea-9414-1c9fc3ae7d1d.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057449-bd15a980-2182-11ea-8180-db3d5889ffd6.png)
 Here we observe that most of users enrolled in 1st 10% of hour that is in 1st 6 minutes but let's zoom again
+
 ![image](https://user-images.githubusercontent.com/47801267/71057454-c141c700-2182-11ea-88c3-8bfc3bfdcfbc.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057521-f817dd00-2182-11ea-8118-72068fb92204.png)
 ***Here we conclude that most of users (more that 20000 out-off total 50000 users) do not used the 1st 24 hour premium free trial & infact they direcly jumped to the premium at the time of they 1st open the app***
 We choose cut-off as 48 hours that is whoever difference is less than 48 is classified as enrolled else not
+
 ![image](https://user-images.githubusercontent.com/47801267/71057561-1c73b980-2183-11ea-9371-a2164f8c0924.png)
+
 ---
 ### Feature Engineering - Independent variables
 ![image](https://user-images.githubusercontent.com/47801267/71057618-4dec8500-2183-11ea-84f6-02ae59b92788.png)
+
 **`Funnels : Funnels are group of screens that belong to same set There are many screens that are correlated with eachother, and
 we don''t want correlated screens coz it's not good idea for the model`**
 ![image](https://user-images.githubusercontent.com/47801267/71057660-76747f00-2183-11ea-90cb-c2d01e7e7c0f.png)
+
 ---
 ### Data Preprocessing & Feature Scaling
 ![image](https://user-images.githubusercontent.com/47801267/71057671-84c29b00-2183-11ea-8d24-04ba7b77fc77.png)
