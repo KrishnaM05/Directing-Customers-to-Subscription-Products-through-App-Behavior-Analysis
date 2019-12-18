@@ -109,13 +109,13 @@ correlated with response variable, this is because there will always be one scre
 ![image](https://user-images.githubusercontent.com/47801267/71057892-221dcf00-2184-11ea-825b-5e6e7f701ffa.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057918-2e099100-2184-11ea-8977-e0843e71f310.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057924-319d1800-2184-11ea-801f-7e3c27abf4b7.png)
-![image](https://user-images.githubusercontent.com/47801267/71057975-57c2b800-2184-11ea-9343-cecfe78df3e6.png)
 - Model Accuracy = sum of diagonal value of cm/sum of all values of cm(confusion matrix)
 - We also look for Precision to insure that model accuracy is inceased not because of some overfitting issues
 - Precision Score = True Positive / (True Positive + False Positive), meaning that out-of all predicted positives what percentage are Actual positives
 - Recall Score = True Positives / (True Positives + False Negatives, meaning that out-of all Actual Positives What Percentage are predicted to be positives
 - We will also calculate f1-score as it creates a balance between Precision & Recall coz it is weighted average of Precision & Recall thereby it considers both False Positives & Flase Negative Intuitively f1-score is not easy to understand as accuracy but it is much better metric in case of class imbalanced data as in our case
 - F1-Score = Precision*Recall / (Precision+Recall)
+![image](https://user-images.githubusercontent.com/47801267/71057975-57c2b800-2184-11ea-9343-cecfe78df3e6.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058019-745ef000-2184-11ea-8a76-111b1f671e08.png)
 **Sensitivity or TPR = TP/(TP+FN)**      
 **Specificity = TN/(TN+FP),  (1-Specificity)=FPR**
