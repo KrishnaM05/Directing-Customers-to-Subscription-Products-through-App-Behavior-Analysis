@@ -16,7 +16,8 @@ In today's market many companies have a mobile presence. Often, these companies 
 - By working for the company. We have access to each customer's app behavior data. This data allows us to see the date & time of app installation, as well as the features the users engaged with within the app. App behavior is characterized as the list of app screens the user looked at, and whether the user played the financial mini-games available.
 - The app usage data is only from the user's first day in the app. This limitation exists because users can enjoy a 24-hour free trial of the premium features, and the company wants to target them with new offers shortly after the trail is over.
 - The Data for this project is from manufacturing fields based on trends found in real world case studies. The fields  describe what companies usually track from their users.
-**Data Description**
+
+# **Data Description**
 - **User** : this is Unique id of each perticuter user of app
 - **first_open** : this is the date/month/year, time the user frist time open the app
 - **dayofweek** : this shows the day out of 7 days a week an user join the app where 0:Sunday & 6:Saturday
