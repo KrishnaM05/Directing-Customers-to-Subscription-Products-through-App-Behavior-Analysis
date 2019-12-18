@@ -142,5 +142,5 @@ correlated with response variable, this is because there will always be one scre
 ![image](https://user-images.githubusercontent.com/47801267/71058275-4201c280-2185-11ea-89c0-f141d27bf92e.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058295-5e056400-2185-11ea-89e9-ddeadecd27ed.png)
 
-- To contribute into the project follow below link....
-https://github.com/GreatestAnalyst/Directing-Customers-to-Subscription-Products-through-App-Behavior-Analysis
+- To contribute into the project follow below link
+- https://github.com/GreatestAnalyst/Directing-Customers-to-Subscription-Products-through-App-Behavior-Analysis
