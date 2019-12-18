@@ -120,8 +120,9 @@ correlated with response variable, this is because there will always be one scre
 **Specificity = TN/(TN+FP),  (1-Specificity)=FPR**
 ![image](https://user-images.githubusercontent.com/47801267/71058019-745ef000-2184-11ea-8a76-111b1f671e08.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058028-79bc3a80-2184-11ea-85b0-1dda70b54c9e.png)
-![image](https://user-images.githubusercontent.com/47801267/71058092-b25c1400-2184-11ea-9551-bf03adbe6f90.png)
 **Here Area under ROC curve covers 85% which implies that the 85% of time model distinguish the 2 classes correctly**
+![image](https://user-images.githubusercontent.com/47801267/71058092-b25c1400-2184-11ea-9551-bf03adbe6f90.png)
+
 ---
 **Predictions**
 ![image](https://user-images.githubusercontent.com/47801267/71058097-b6883180-2184-11ea-8b7e-22b8996255d3.png)
