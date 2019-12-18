@@ -136,10 +136,9 @@ correlated with response variable, this is because there will always be one scre
 ![image](https://user-images.githubusercontent.com/47801267/71058182-fcdd9080-2184-11ea-916d-51c4ac20754b.png)
 ---
 ## Conclusion & Final Results
-![image](https://user-images.githubusercontent.com/47801267/71058275-4201c280-2185-11ea-89c0-f141d27bf92e.png)
-
 ![tenor](https://user-images.githubusercontent.com/47801267/71058235-17176e80-2185-11ea-81ef-e1c381c7a760.gif)
 - **Positively Affecting features to enrollment:** Other_sceens, VerifyPhone, CMCount, VerifyMobile, VerifyDateOfBirth, Rewards, EditProfile, etc, without any doubt all above features are situated to moving towards the enrollment screens.
 - **Negatively Affecting features to enrollment:** LoanCount, VerifyCountry, Alerts, age, numscreens, Login, ResendToken, etc, if we see all these features are irritating & no user want to do this.
+![image](https://user-images.githubusercontent.com/47801267/71058275-4201c280-2185-11ea-89c0-f141d27bf92e.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058295-5e056400-2185-11ea-89e9-ddeadecd27ed.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058399-bd637400-2185-11ea-9d65-49e17d8c91a0.png)
