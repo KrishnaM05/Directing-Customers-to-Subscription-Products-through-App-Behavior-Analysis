@@ -127,8 +127,9 @@ correlated with response variable, this is because there will always be one scre
 ![image](https://user-images.githubusercontent.com/47801267/71058097-b6883180-2184-11ea-8b7e-22b8996255d3.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058107-be47d600-2184-11ea-989b-1580b99e515d.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058113-c1db5d00-2184-11ea-9ba0-56bb7696bc89.png)
-![image](https://user-images.githubusercontent.com/47801267/71058168-eb948400-2184-11ea-8442-2b758985ca22.png)
 `From both the plots we can conclude that both Actual & Predicted values follows same class distribution`
+![image](https://user-images.githubusercontent.com/47801267/71058168-eb948400-2184-11ea-8442-2b758985ca22.png)
+
 ---
 **Feature Importance**
 ![image](https://user-images.githubusercontent.com/47801267/71058172-f0f1ce80-2184-11ea-8b5c-6267b563840c.png)
