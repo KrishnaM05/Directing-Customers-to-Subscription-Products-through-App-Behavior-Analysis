@@ -57,7 +57,6 @@ Observations:
 
 ![image](https://user-images.githubusercontent.com/47801267/71057087-812e1480-2181-11ea-9c4b-29a0bb76785b.png)
 ![image](https://user-images.githubusercontent.com/47801267/71058534-2a770980-2186-11ea-8176-13682cc17e3e.png)
-![image](https://user-images.githubusercontent.com/47801267/71057146-b9355780-2181-11ea-8c56-ccd7690401ea.png)
 Observarions:
 - dayofweek is least positively correlated & says that if you join the app in day 0(sunday) then their is most likely to get enrolled to the premium features
 - Hour is negatively correlated with target variable shows the earlier the hour(in night) the most likely to get enrolled
@@ -67,13 +66,14 @@ Observarions:
 - liked is very least negative which does not have much impact in target
 - interestingly used_premium_feature is negatively correlated with response meaning that if user used the premium feature in 1st 24 hour that he/she might not enroll after the trial version of premium features
 
+![image](https://user-images.githubusercontent.com/47801267/71057146-b9355780-2181-11ea-8c56-ccd7690401ea.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057159-c18d9280-2181-11ea-8350-ca313c6edb96.png)
-![image](https://user-images.githubusercontent.com/47801267/71057221-fac60280-2181-11ea-9452-a9a1568170d7.png)
 All the independent features are having very less correlation among themselves, so their is very less chance of multicollinearity problem
 
 ---
 
 ### Feature Engineering - Response variable
+![image](https://user-images.githubusercontent.com/47801267/71057221-fac60280-2181-11ea-9452-a9a1568170d7.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057235-0b767880-2182-11ea-8c6f-789422a10460.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057245-1af5c180-2182-11ea-9fe1-f0597881624d.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057284-35c83600-2182-11ea-8982-5449934c8ecf.png)
