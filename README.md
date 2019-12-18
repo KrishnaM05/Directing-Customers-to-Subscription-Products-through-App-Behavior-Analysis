@@ -82,13 +82,13 @@ Here we observe that most of users enrolled in 1st 10% of hour that is in 1st 6 
 ![image](https://user-images.githubusercontent.com/47801267/71057449-bd15a980-2182-11ea-8180-db3d5889ffd6.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057454-c141c700-2182-11ea-88c3-8bfc3bfdcfbc.png)
 ***Here we conclude that most of users (more that 20000 out-off total 50000 users) do not used the 1st 24 hour premium free trial & infact they direcly jumped to the premium at the time of they 1st open the app***
-We choose cut-off as 48 hours that is whoever difference is less than 48 is classified as enrolled else not
+- We choose cut-off as 48 hours that is whoever difference is less than 48 is classified as enrolled else not
 
 ![image](https://user-images.githubusercontent.com/47801267/71057521-f817dd00-2182-11ea-8118-72068fb92204.png)
-![image](https://user-images.githubusercontent.com/47801267/71057561-1c73b980-2183-11ea-9371-a2164f8c0924.png)
 
 ---
 ### Feature Engineering - Independent variables
+![image](https://user-images.githubusercontent.com/47801267/71057561-1c73b980-2183-11ea-9371-a2164f8c0924.png)
 ![image](https://user-images.githubusercontent.com/47801267/71057618-4dec8500-2183-11ea-84f6-02ae59b92788.png)
 
 **`Funnels : Funnels are group of screens that belong to same set There are many screens that are correlated with eachother, and
